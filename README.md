@@ -1,7 +1,3 @@
-**ApkModed/ApkModed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👋 Hi, I’m @ApkModed
 👀 I’m webmaster at https://apk-moded.com/
 🌱 ApkModed - Blogging, Software Tricks, & Gaming
